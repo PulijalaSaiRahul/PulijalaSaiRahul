@@ -1,7 +1,7 @@
 ![MasterHead](https://camo.githubusercontent.com/85d8088f419078b5efe45c2ddfe32827519e04e0d1a014c577279f95fbba525a/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30322f30312f31652f30323031316563383535343237376238633730626632326662313932313233632e676966)
 
 <h1 align="center">Hi 👋, I'm Pulijala Sai Rahul</h1>
-<h3 align="center">I'm a passionate developer diving into the worlds of full stack development, frontend, backend, and AI/ML. I love exploring how these fields intersect and solving challenges across different layers of technology.</h3>
+<h3 align="center">I'm a Fassionate Feveloper diving into the worlds of Full stack development, Frontend, Fackend, and AI/ML. I love exploring how these fields intersect and solving challenges across different layers of Technology.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
