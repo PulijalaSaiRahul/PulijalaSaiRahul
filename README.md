@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **MERN Java C/C++ Next.js RESTApi**
 
-- 👯 I’m looking to collaborate on **MERN**
+- 👯 I’m looking to collaborate on **MERN BlockChain**
 
 - 🤝 I’m looking for help with **NextJS AWS Azure**
 
